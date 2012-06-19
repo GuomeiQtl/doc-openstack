@@ -1,4 +1,8 @@
-This documentation helps anyone who wants to install Openstack Essex in single-node or dual node with Ubuntu 12.04 LTS.
+This documentation helps anyone who wants to install Openstack Essex in single-node or dual-node with Ubuntu 12.04 LTS.
+
+I explain also how to configure Quantum with Open-vSwitch in a multi-node architecture.
+
+Enjoy !
 
 
 Released under Creative Commons – Attribution-ShareAlike 3.0
